@@ -25,7 +25,9 @@ SECRET_KEY = 'lk104!!a@okg&guu1y(35%m^l4#lmp!l7&v+vr*fy8i@l6z^ng'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'meetoul.pythonanywhere.com'
+]
 
 
 # Application definition
