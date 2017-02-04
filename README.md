@@ -1,0 +1,1 @@
+Simple blog based on python3 django framework
