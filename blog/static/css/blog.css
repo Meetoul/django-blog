@@ -14,10 +14,6 @@
 	margin-left: 40px
 }
 
-h2 {
-	font-family: cursive;
-}
-
 .date {
 	margin-left: 10px;
 	color: darkblue;
@@ -27,7 +23,11 @@ h2 {
 	float: right;
 }
 
-.post-form textarea, .post-form input {
+.post-form textarea, .post-form h2 {
+	font-family: bold;
+}
+
+input {
 	width: 100%;
 }
 
@@ -44,4 +44,5 @@ h2 {
 
 .post h2 a, .post h2 a:visited{
 	color: #000000;
+	font-size: 50pt;
 }
